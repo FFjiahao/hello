@@ -1,8 +1,8 @@
-# hello-world
+# hello-zry
 
 
-## my first repository
 
-123
 
-This is my first visit to GitHub. Now record it.Fighting!
+你好 朱若韵 你是大笨蛋！
+
+
